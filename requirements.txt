@@ -2,7 +2,7 @@ langchain == 1.2.1
 langchain-astradb == 1.0.0    
 langchain-huggingface == 1.2.0
 langchain-groq == 1.1.1 
-langchain-openai==0.0.24    
+langchain-openai    
 langchain-community == 0.4.1  
 datasets == 4.4.2
 pypdf == 6.5.0
