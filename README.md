@@ -1,5 +1,11 @@
 FLIPKART PRODUCT RECOMMENDER CHATBOT
 
+Demo :
+"(https://github.com/user-attachments/assets/c476cb8c-2635-41bf-9833-2d07e0b04039)](https://flipkartappuctrecommenderchatbot-sindhura942.streamlit.app/)"
+
+Deployed in streamlit 
+"https://flipkartappuctrecommenderchatbot-sindhura942.streamlit.app"
+
 ### 1. Initial Setup
 
 - **Push code to GitHub**  
